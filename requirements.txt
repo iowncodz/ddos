@@ -1,0 +1,9 @@
+PyRoxy
+cloudscraper
+impacket
+psutil
+requests
+yarl
+certifi
+dnspython
+icmplib
